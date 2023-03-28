@@ -1,0 +1,6 @@
+DB_NAME = 'gym'
+DB_USERNAME = 'postgres'
+DB_PASSWORD = 'postgres'
+DB_HOST = 'localhost'
+DB_PORT = '5432'
+SECRET_KEY = 'django-insecure-^dypjb9f96&s^6vuw(a3m-u@&m2qf&tkyp6*oeu36#m35ub(p='
